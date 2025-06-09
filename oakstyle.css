@@ -1,0 +1,38 @@
+body{
+    background-color:#b5b191;
+    color: #542a0e;
+    font-style: italic;
+    padding: 20px;
+}
+a{
+    color: #542a0e;
+}
+.p{
+    justify-content: center;
+    margin-top: 0;
+}
+
+.sup{
+    font-size: 1em;
+}
+.hline{
+    width: 600px;
+    color: #542a0e;
+}
+.nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-evenly;
+    margin-top: 40px;
+}
+.container{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 40px 20px;
+    max-width: 1000px;
+    margin: auto;
+}
